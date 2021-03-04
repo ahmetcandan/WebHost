@@ -20,7 +20,7 @@ namespace WebHostClient
 
         public Form1()
         {
-            Settings.PortNo = 8081;
+            Settings.PortNo = 14000;
             InitializeComponent();
         }
 
